@@ -4,6 +4,7 @@
 - They offer a minimal guide for creating a package that suits CRAN
 - The [`package_examples`](https://github.com/thiagopod17/cran_journey/tree/main/package_example) folder contains the files used to construct and check your package
 - If you have the R base and the R Studio installed, you re good to go
+- In case you need some advice for filling out the files in your package, please check out the examplary [`package_examples_answer`](https://github.com/thiagopod17/cran_journey/tree/main/package_example_answer)
 - If you cannot access the R terminal inside R studio, just go to the menu `Tools >> Terminal >> New Terminal`
 - Have fun !!!
 
