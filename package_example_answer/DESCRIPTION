@@ -1,0 +1,9 @@
+Package: relogio
+Type: Package
+Title: Algebra de horas
+Version: 1.0
+Date: 2025-11-05
+Author: Thiago Sousa
+Maintainer: <youremail@you.com>
+Description: In one line describe your package and put a dot at the end.
+License: GPL-3
